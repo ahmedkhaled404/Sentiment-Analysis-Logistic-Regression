@@ -40,11 +40,11 @@
 
 -   **Class Distribution:** Balanced (almost equal number of positive and negative reviews).
 
-    ![A blue and orange pie chart Description automatically generated](media/5d02dc78d1d24b69d87970c0302a7424.png)
+    ![image](https://github.com/user-attachments/assets/0555d4a0-e6ca-43e2-9468-6aad4ac5b38d)
 
 -   **Word Count Distribution:** Right-skewed with few anomalies.
 
-    ![A graph of a number of columns Description automatically generated](media/05d0a2a8cac227cdb43707d44647dfa3.png)
+    ![image](https://github.com/user-attachments/assets/679eac5a-14b4-486a-9f1e-50f3890e8031)
 
 **4. Advanced Experiments**
 
@@ -98,10 +98,15 @@
 
 Compared performance of Logistic Regression and Naive Bayes using metrics such as accuracy, confusion matrix, and F1 score.
 
+
 -   **Classification Report:**
+  
+    ![Screenshot 2024-07-21 184711](https://github.com/user-attachments/assets/bdec8fea-d751-4b82-bd27-5284a96a04b1)
+
+   
 -   **Confusion Matrix Comparison:**
 
-![A close-up of a graph Description automatically generated](media/cc670d33e6d1394626c53dc1f975fece.png)
+![image](https://github.com/user-attachments/assets/489bc90c-569c-420e-8930-48379cb268be)
 
 **5. Overall Conclusion**
 
